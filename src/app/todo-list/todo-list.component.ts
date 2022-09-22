@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { todos } from "../../mock/todos";
+import {Todo} from "../../entity/todo";
 
 @Component({
   selector: 'todo-list',

@@ -1,3 +1,5 @@
+import {Todo} from "../entity/todo";
+
 export const todos: Todo[] = [
   {
     id: 1,
